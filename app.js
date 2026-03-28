@@ -1,2 +1,2 @@
-console.log("Cambio desde conflicto2");
-
+console.log("Cambio en main");
+console.log("Cambio en rama");
