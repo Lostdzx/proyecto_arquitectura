@@ -1,2 +1,1 @@
-console.log("Inicio del proyecto");
-
+console.log("Login funcionando");
